@@ -10,3 +10,5 @@ def hollow_square(side):
 
 # Example usage:
 hollow_square(5)
+new line is added
+this is my second commit
